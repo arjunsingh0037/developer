@@ -1,0 +1,30 @@
+<!-- Create a localStorage name/value pair with name="lastname" and value="Smith"
+Retrieve the value of "lastname" and insert it into the element with id="result" -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Storage</title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			var edit = document.getElementById("edit");
+			$(edit).blur(function(){
+				localStorage.setItem('todoData',this.innerHTML);	
+			});
+
+			//now when the page loads
+			if(localStorage.getItem('todoData')){
+				edit.innerHTML = localStorage.getItem('todoData');
+			}
+		});
+	</script>
+</head>
+<body>
+	<header>My To-Do List</header>
+	<section>
+		<ul id="edit" contenteditable="true">
+			<li></li>
+		</ul>
+	</section>
+</body>
+</html>

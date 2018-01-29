@@ -1,0 +1,283 @@
+.pagelayout-login #region-main {
+background:none !important;
+border:0px !important;
+}
+.pagelayout-login #page {
+background:transparent !important;
+border:0px !important;
+}
+img.logo {
+	width:260px;
+}
+.navbar {
+    margin-bottom: 0px;
+    background-image: none;
+    padding: 0 0px; !important;
+    margin-top: 20px;
+}
+#page #page-header {
+	background:none !important;
+}
+#page-header {
+    padding: 12px 0;
+    background-color: rgba(121, 180, 192, 0.7);
+}
+.breadcrumbs a:last-child {
+    color: #eb7025 !important;
+}
+.breadcrumb {
+    background: #5A6F9E !important;
+	padding: 10px;
+}
+
+.breadcrumbs a {
+    font-size: 14px;
+    color: #fff;
+    font-weight: normal;
+}
+.breadcrumb>li {
+line-height:30px;
+}
+#page {    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+	}
+
+.breadcrumb a {
+color: #eb7025;
+}
+.breadcrumb>li {
+text-shadow:none !important;
+color:#fff !important;
+}
+#page {padding-top:40px; padding-bottom: 40px;}
+
+.breadcrumb a {
+color: #eb7025;
+}
+#region-main {
+    background: #fff;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+	padding:10px;
+	/*margin-right: 20px; */
+}
+#block-region-side-pre {
+	/*margin-top:80px;
+	margin-left: 20px;*/
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+#wrapper { background: transparent !important; }
+.metropanel {
+background: #5A6F9E;
+}
+.metropanel span {color:#fff; }
+.metropanel p {color:#fff; }
+.metropanel h1 {color:#fff !important }
+.metropanel h3 {color:#fff !important }
+.metropanel .panel-title {color:#fff; }
+p {
+    line-height: 2em;
+}
+.metrobig {
+font-size: 15px;
+    padding: 10px;
+}
+.block {
+background: transparent;
+}
+body {
+background-size: auto auto;
+background-repeat:repeat;
+font-size:15px;
+}
+#block-region-side-pre {
+background: #293B53;
+}
+.block_login_logout {
+    background: -webkit-linear-gradient(#8dbbc4, #293b53, #293b53) !important;
+    background: -moz-linear-gradient(#8dbbc4, #293b53, #293b53) !important;
+    background: -o-linear-gradient(#8dbbc4, #293b53, #293b53) !important;
+    background: -ms-linear-gradient(#8dbbc4, #293b53, #293b53) !important;
+}
+#block-region-side-pre .block .header .title h2, .block h3 {
+    text-shadow: none;
+    color: #fff;
+	font-weight:bold;
+}
+#block-region-side-pre .block .content {
+    padding: 6px;
+    color: #fff;
+}
+
+#block-region-side-pre .block ul.block_tree a {
+    color: #fff;
+}
+
+/** on 22nd march 2016**/
+.metrologo {
+	    margin-right: 10px;
+}
+.logo {
+	color:#fff !important;
+	font-size: 18px;
+	
+}
+img.logo {
+	height:89px;
+}
+body { 
+font-family: "proximanova_regular",Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+font-family: "proximanova_regular",Helvetica,Arial,sans-serif !important;
+color:#4f617a !important;
+}
+h1, h2, h3, h4, h5, h6, .back-to-top, .socials p, #socialheading, .forumpost .subject {
+	font-family: "proximanova_regular",Helvetica,Arial,sans-serif !important;
+}
+#page-footer {
+	background:transparent !important;
+	border:0px !important;
+}
+.footerlinks {
+	background:transparent !important;
+	border:0px !important;
+}
+.nopadidng-bottom {
+	padding-bottom:0px !important;
+}
+.course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
+background: #E2E2E2;
+    padding: 16px;
+}
+.content h3.sectionname {
+	background: #E2E2E2 ;
+	border-color: #E2E2E2 #E2E2E2 #E2E2E2 #9cc6ce !important;
+}
+
+/* added by Arjun on- 06/04/2016 */
+
+#block-region-side-pre {
+background:-webkit-linear-gradient(#8dbbc4, #293b53, #293b53)!important;
+background: -moz-linear-gradient(#8dbbc4, #293b53, #293b53)!important;
+background: -ms-linear-gradient(#8dbbc4, #293b53, #293b53)!important;
+}
+#block-region-side-pre a{
+    color: #fafefe;
+    text-decoration: none;
+}
+div#imp-links a{
+    color:#050100;
+}
+#block-region-side-pre .block .header .title h2{
+    color: #fff!important;
+}
+#region-main a{
+     color: #428bca;
+}
+#region-main a:hover{
+    color: #2a6496;
+    text-decoration: underline!important;
+}
+.block .minicalendar td.weekend{
+    color: #fff!important;
+}
+.calendar_event_user{
+    background:transparent;
+}
+.block .minicalendar td a{
+   color:#C1C1C1!important;
+}
+div#inst36 .block .content h3{
+   color:#050100!important;
+}
+.breadcrumb a{
+   color:#fff!important;
+}
+.breadcrumb>li:last-child{
+   font-weight: bolder!important;
+   text-decoration:none;
+   text-shadow:none!important;
+}
+.moodle-actionmenu[data-enhanced].show .menu a{
+   color: #333!important;
+}
+.block_myprofile .myprofileitem.fullname{text-align:center;}
+.block_myprofile img.profilepicture{border-radius:60px;}
+#block-region-side-pre .block .content .myprofileitem.picture{border-radius:60px;}
+.block_myprofile .myprofileitem.fullname{
+   color: #f6bb63;
+   font-size: 14px;
+}
+.block_myprofile .welcome{
+    text-align: center;
+    font-size: 15px;
+}
+#region-main .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 30%;
+    height: 250px;
+    float:right;
+}
+#region-main .carousel-caption{
+   height: 220px;
+   width: 66%;
+   position:relative!important;
+   background: rgba(0, 0, 0, 0.01)!important;
+}
+#region-main .carousel-caption p {
+    color: #0D2140!important;
+    font-size: 14px;
+}
+.myprofileitem.picture img{
+    width: 106px;
+    height: 103px;
+    margin: 0px -1px -2px -2px;
+}
+#region-main .carousel-caption a{
+    color: #075771!important;
+}
+#region-main .carousel-indicators{
+     top:inherit!important;
+     right:inherit!important;
+     text-align: center;
+     position: relative;
+     margin: 0 auto;
+     display: table;
+     clear: both;
+}
+#region-main .carousel-indicators .active{
+  background-color: #5A6F9E!important;
+   color: #fff;
+}
+#region-main .carousel-indicators li{
+  background-color: rgb(255, 255, 255)!important;
+  width: 22px!important;
+  height: 22px!important;
+  text-indent: inherit!important;
+  border-radius: 0px!important;
+  border: 1px solid #445D71;
+  color: #5A6F9E;
+  text-align: center;
+  text-decoration: none;
+}
+#region-main .carousel-caption h3{
+    line-height: 30px;
+    font-size: 26px;
+    border-bottom: 3px dotted #4f617a;
+}
+#region-main .carousel-indicators .active li{
+  background-color: #5A6F9E!important;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+#region-main .carousel-back{
+    background: rgba(137, 182, 191, 0.35);
+    overflow: auto;
+}
+
+/*-------------------*/
